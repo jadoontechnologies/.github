@@ -1,5 +1,5 @@
 # ![Jadoon Technologies Logo](https://raw.githubusercontent.com/jadoontechnologies/.github/main/bbvaPXsy_400x400.jpg) 
-# 🌐 Jadoon Technologies (Private) Limited
+#  Jadoon Technologies (Private) Limited
 ## "Innovating the Future with AI and Web Development" 🚀
 
 ### 📖 About Us

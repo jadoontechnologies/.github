@@ -1,4 +1,4 @@
-# ![Jadoon Technologies Logo](""bbvaPXsy_400x400.jpg) 
+# ![Jadoon Technologies Logo]("https://github.com/jadoontechnologies/.github/blob/5b245c277ebcbc3a0557bb311540f93ab79a4056/bbvaPXsy_400x400.jpg") 
 # 🌐 Jadoon Technologies (Private) Limited
 ## "Innovating the Future with AI and Web Development" 🚀
 

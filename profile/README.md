@@ -69,14 +69,12 @@
 ### 📞 Contact Us
 #### Get in Touch
 - https://www.jadoontechnologies.com
-- Contact form 📨
-- Email and phone details ☎️
+- Contact form 📨 https://jadoontechnologies.com/#contact
+- Email and phone details ☎️ jadoontechnologies@gmail.com, +92 335 9119460
 
-#### Follow Us
-- Links to social media profiles 🔗
-- Newsletter subscription 📧
 
 #### Location
 - Office address 🏢
-- Map and directions 🗺
+- Small Industry Rd, Abbottabad, Pakistan, Sir Syed Colony, Abbottabad, Khyber Pakhtunkhwa 22010, Pakistan
+- EndterStr. 15 , Nuremberg, Germany
 
